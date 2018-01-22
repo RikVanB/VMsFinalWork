@@ -1,1 +1,1 @@
-VMsFinalWork
+OVF Templates die ingeladen moeten worden in VMWare Workstation

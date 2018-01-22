@@ -1,0 +1,3 @@
+SHA256(Fusio.ovf)= e3f592e33c822f36ab02ab8f4bfecae6207d7d081612493c98ab8a7d0b3e79d9
+SHA256(Fusio-disk1.vmdk)= a19dd250101ca516ff03b1b4dbebb0eaebf55ffc6f224e4c830935d9acdceaa5
+SHA256(Fusio-file1.iso)= a06cd926f5855d4f21fb4bc9978a35312f815fbda0d0ef7fdc846861f4fc4600
